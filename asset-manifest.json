@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chronomter-stopwatch/static/css/main.54f5050d.css",
+    "main.js": "/chronomter-stopwatch/static/js/main.91166b65.js",
+    "index.html": "/chronomter-stopwatch/index.html",
+    "main.54f5050d.css.map": "/chronomter-stopwatch/static/css/main.54f5050d.css.map",
+    "main.91166b65.js.map": "/chronomter-stopwatch/static/js/main.91166b65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54f5050d.css",
+    "static/js/main.91166b65.js"
+  ]
+}
