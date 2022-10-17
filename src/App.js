@@ -1,8 +1,10 @@
-import React from "react"
+import React, { useState, useEffect } from "react";
+import Chronometer from "./Chronometer";
+
 function App() {
   return (
     <div className="App">
-      <h1>My React App</h1>
+      <Chronometer />
     </div>
   );
 }
